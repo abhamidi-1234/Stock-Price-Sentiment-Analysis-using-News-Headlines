@@ -10,7 +10,13 @@
 
 - Preprocess the dataset, including cleaning and formatting. Ensure that date columns are in datetime format and that the text data is free of any inconsistencies.
 
-- Perform EDA to get more insights into your dataset 
+- Perform EDA to get more insights into your dataset
+
+![EDA](https://github.com/abhamidi-1234/Stock-Price-Sentiment-Analysis-using-News-Headlines/blob/main/Capture1.PNG)
+
+![EDA](https://github.com/abhamidi-1234/Stock-Price-Sentiment-Analysis-using-News-Headlines/blob/main/Capture2.PNG)
+
+![EDA](https://github.com/abhamidi-1234/Stock-Price-Sentiment-Analysis-using-News-Headlines/blob/main/Capture3.PNG)
   
 **Step 3: Text Preprocessing**
 
@@ -49,6 +55,8 @@
 - Evaluate the model's performance on the testing dataset to assess its ability to classify whether the stock price will go up or not.
 
 - Use evaluation metrics such as accuracy, precision, recall, F1-score, and the confusion matrix to assess the model's performance.
+
+![Results](https://github.com/abhamidi-1234/Stock-Price-Sentiment-Analysis-using-News-Headlines/blob/main/Capture4.PNG)
 
 **Step 11: Result Interpretation**
 
